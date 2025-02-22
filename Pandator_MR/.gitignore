@@ -71,3 +71,18 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
+
+# JetBrains Rider
+.idea/
+
+# Visual Studio
+.vs
+Release/
+Debug/
+
+# Burst Debug Information
+Pandator_MR_BurstDebugInformation_DoNotShip/
+
+# utmp
+.utmp/
+
